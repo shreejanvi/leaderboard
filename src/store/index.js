@@ -10,7 +10,7 @@ const initialScores = [
     { username: 'Player7', time: '03:00:567' },
     { username: 'Player8', time: '03:15:678' },
     { username: 'Player9', time: '03:30:789' },
-    { username: 'Janvi Is Here', time: '03:45:890' },
+    { username: 'Janvi Is Here', time: '59:45:890' },
 ];
 
 const scoresSlice = createSlice({
